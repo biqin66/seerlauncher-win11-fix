@@ -1,0 +1,13 @@
+# 切勿提交启动器/游戏的任何文件(版权 + 体积)
+*.asar
+*.asar.bak
+app_src/
+main.deob.js
+main.pretty.js
+
+# Node / 编辑器 / 系统杂项
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
